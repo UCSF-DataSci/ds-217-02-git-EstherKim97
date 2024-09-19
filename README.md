@@ -14,3 +14,9 @@ print(sum)
 
 # Link to official Python website
 [Official Python website] (https://www.python.org)
+
+# Screenshot of Pandas Installation
+![My screenshot](screenshot_pandas_installation.png "Pandas installation")
+
+# Meme
+![Funny meme](https://www.instagram.com/reel/C_HGtaqyEcu/?igsh=MzRlODBiNWFlZA== "Funny video")
